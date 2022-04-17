@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">youtubeapi39</string>
+    <string name="video_series">video series</string>
+    <string name="back">Back</string>
+    <string name="playlist">Playlist</string>
+    <string name="try_again" />
+    <string name="no_internet_connection" />
+</resources>
